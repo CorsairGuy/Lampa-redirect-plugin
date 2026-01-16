@@ -1,0 +1,1 @@
+# Lampa-redirect-plugin
